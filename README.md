@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReinssOath
 - 👀 I’m interested in ...Front-End Web Development
-- 🌱 I’m currently learning ... HTML & CSS, JS, Java, and C++
+- 🌱 I’m currently learning ... HTML, CSS, JS, PHP, and Laravel  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
