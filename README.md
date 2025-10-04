@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ReinssOath
+- 👋 Hi, I’m @ReinssDev
 - 👀 I’m interested and Start Learning 2025 in ...Full-Stack Web Development
-- 🌱 I’m currently learning ... TailwindCSS and JavaScript  
+- 🌱 I’m currently learning ... ReactJS, NodeJs, TailwindCSS, PostgreSQL/MySQL and JavaScript Native  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
